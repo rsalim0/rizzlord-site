@@ -101,7 +101,7 @@ button {
 .app-store-badge {
   display: flex;
   justify-content: center;
-  width: min(19rem, 88vw);
+  width: min(10.1rem, 70vw);
 }
 
 .app-store-badge > div,
