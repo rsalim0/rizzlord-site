@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
       <section className="legal-section">
         <h2>1. Introduction</h2>
         <p>
-          This Privacy Policy explains how <strong>[LEGAL ENTITY NAME]</strong> (&ldquo;Rizzlord,&rdquo;
+          This Privacy Policy explains how <strong>Revokslab</strong> (&ldquo;Rizzlord,&rdquo;
           &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) collects, uses, discloses, and
           protects information about you when you use the Rizzlord mobile application, our website at
           rizzlord.app, and any related services that link to this Policy (together, the
@@ -35,7 +35,7 @@ export default function PrivacyPolicy() {
         </p>
         <p>
           Questions, requests, or complaints can be sent at any time to{" "}
-          <a href="mailto:[contact email]">[contact email]</a>.
+          <a href="mailto:hi@revoks.dev">hi@revoks.dev</a>.
         </p>
       </section>
 
@@ -148,17 +148,17 @@ export default function PrivacyPolicy() {
       <section className="legal-section">
         <h2>4. AI processing and third-party model providers</h2>
         <p>
-          Rizzlord generates suggestions by sending your Content to one or more third-party AI
-          model providers (such as <strong>[AI provider(s)]</strong>). These providers run
-          inference on the prompts we build from your Content and return generated text that we
-          then process and display to you. Without this transmission the Service cannot function.
+          Rizzlord generates suggestions by sending your Content to <strong>OpenAI</strong>, our
+          third-party AI model provider. OpenAI runs inference on the prompts we build from your
+          Content and returns generated text that we then process and display to you. Without this
+          transmission the Service cannot function.
         </p>
         <p>
-          AI providers process Content under their own terms and privacy commitments. They may
-          retain prompts and outputs for limited periods for abuse monitoring, safety review, and
-          their own legal compliance. We choose providers that offer enterprise or developer
-          contracts which restrict the use of customer data for training their general-purpose
-          models, but we cannot eliminate the fact that your Content is transmitted to and briefly
+          OpenAI processes Content under its own terms and privacy commitments and may retain
+          prompts and outputs for limited periods for abuse monitoring, safety review, and its own
+          legal compliance. We use OpenAI under a developer/API agreement that, per their current
+          policies, does not use API inputs or outputs to train their general-purpose models.
+          That said, we cannot eliminate the fact that your Content is transmitted to and briefly
           processed by a third party.
         </p>
         <p>
@@ -249,7 +249,7 @@ export default function PrivacyPolicy() {
         </p>
         <p>
           When you delete your account or specific Content, we remove it from our active systems
-          within approximately <strong>[retention window, e.g. 30 days]</strong>. Some information
+          within approximately <strong>30 days</strong>. Some information
           may persist for a limited additional period in encrypted backups, in logs needed for
           security and abuse detection, and where retention is required by law or to establish or
           defend legal claims. De-identified or aggregated data, which is not associated with you,
@@ -268,7 +268,7 @@ export default function PrivacyPolicy() {
         <p>
           You can exercise most of these rights from within the app (for example, by editing your
           profile, deleting individual conversations, or deleting your account in Settings). You
-          may also email us at <a href="mailto:[contact email]">[contact email]</a> and we will
+          may also email us at <a href="mailto:hi@revoks.dev">hi@revoks.dev</a> and we will
           respond within the timeframe required by law (typically within 30 days). We may need to
           verify your identity before acting on a request.
         </p>
@@ -299,7 +299,7 @@ export default function PrivacyPolicy() {
         <p>
           If you are a parent or guardian and believe a child under 17 has provided us with
           personal information, please contact us at{" "}
-          <a href="mailto:[contact email]">[contact email]</a>. If we become aware that we have
+          <a href="mailto:hi@revoks.dev">hi@revoks.dev</a>. If we become aware that we have
           collected personal information from a child under 17 without verified parental consent
           (where applicable), we will delete that information promptly.
         </p>
@@ -308,7 +308,7 @@ export default function PrivacyPolicy() {
       <section className="legal-section">
         <h2>10. International data transfers</h2>
         <p>
-          Rizzlord is operated from <strong>[country]</strong>, and the providers we work with
+          Rizzlord is operated from <strong>Rwanda</strong>, and the providers we work with
           process data in multiple countries including the United States. Where personal
           information is transferred out of your home jurisdiction, we rely on appropriate
           safeguards such as the European Commission&rsquo;s Standard Contractual Clauses, the UK
@@ -359,11 +359,11 @@ export default function PrivacyPolicy() {
           your rights, contact us at:
         </p>
         <p>
-          <strong>[LEGAL ENTITY NAME]</strong>
+          <strong>Revokslab</strong>
           <br />
-          [Business address]
+          Kigali, Rwanda
           <br />
-          <a href="mailto:[contact email]">[contact email]</a>
+          <a href="mailto:hi@revoks.dev">hi@revoks.dev</a>
         </p>
       </section>
 

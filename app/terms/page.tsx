@@ -20,7 +20,7 @@ export default function TermsOfService() {
         <h2>1. Acceptance of these Terms</h2>
         <p>
           These Terms of Service (&ldquo;Terms&rdquo;) form a binding contract between you and{" "}
-          <strong>[LEGAL ENTITY NAME]</strong> (&ldquo;Rizzlord,&rdquo; &ldquo;we,&rdquo;
+          <strong>Revokslab</strong> (&ldquo;Rizzlord,&rdquo; &ldquo;we,&rdquo;
           &ldquo;us,&rdquo; or &ldquo;our&rdquo;). They govern your access to and use of the
           Rizzlord mobile application, our website at rizzlord.app, and any related services
           (together, the &ldquo;Service&rdquo;).
@@ -78,7 +78,7 @@ export default function TermsOfService() {
         <p>
           You are responsible for safeguarding your login credentials and for all activity that
           occurs under your account. Notify us immediately at{" "}
-          <a href="mailto:[contact email]">[contact email]</a> if you suspect any unauthorized
+          <a href="mailto:hi@revoks.dev">hi@revoks.dev</a> if you suspect any unauthorized
           access. We are not liable for losses caused by unauthorized use of your account that
           results from your failure to keep credentials secure.
         </p>
@@ -241,7 +241,7 @@ export default function TermsOfService() {
         </p>
         <p>
           All rights not expressly granted are reserved. &ldquo;Rizzlord&rdquo; and the Rizzlord
-          logo are trademarks of <strong>[LEGAL ENTITY NAME]</strong>. You may not use them
+          logo are trademarks of <strong>Revokslab</strong>. You may not use them
           without our prior written permission.
         </p>
       </section>
@@ -324,8 +324,8 @@ export default function TermsOfService() {
         </p>
         <p>
           OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICE WILL NOT EXCEED THE
-          GREATER OF (A) THE AMOUNTS YOU PAID TO US IN THE TWELVE (12) MONTHS PRECEDING THE EVENT
-          GIVING RISE TO THE CLAIM, OR (B) <strong>[USD amount, e.g. $50]</strong>.
+          AMOUNTS YOU PAID TO US IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE
+          CLAIM.
         </p>
         <p>
           Some jurisdictions do not allow the limitation of liability for certain damages; in
@@ -348,21 +348,11 @@ export default function TermsOfService() {
       <section className="legal-section">
         <h2>17. Governing law and dispute resolution</h2>
         <p>
-          These Terms are governed by the laws of{" "}
-          <strong>[jurisdiction, e.g. State of Delaware, USA]</strong>, without regard to its
-          conflict-of-laws principles. Subject to the arbitration provision below (if any) and any
-          mandatory consumer rights you have under local law, the courts located in{" "}
-          <strong>[venue]</strong> will have exclusive jurisdiction over any dispute arising out
-          of or relating to these Terms or the Service.
-        </p>
-        <p>
-          <strong>[Optional arbitration clause &mdash; remove if not desired.]</strong> Any
-          dispute, claim, or controversy arising out of or relating to these Terms or the Service
-          will be resolved by binding individual arbitration, and you and Rizzlord each waive the
-          right to a trial by jury or to participate in a class action. This provision does not
-          apply where prohibited by law. You may opt out of arbitration within 30 days of first
-          accepting these Terms by emailing us at{" "}
-          <a href="mailto:[contact email]">[contact email]</a>.
+          These Terms are governed by the laws of the <strong>Republic of Rwanda</strong>,
+          without regard to its conflict-of-laws principles. Subject to any mandatory consumer
+          rights you have under your local law, the courts located in{" "}
+          <strong>Kigali, Rwanda</strong> will have exclusive jurisdiction over any dispute
+          arising out of or relating to these Terms or the Service.
         </p>
       </section>
 
@@ -437,11 +427,11 @@ export default function TermsOfService() {
           Questions about these Terms? Reach out at:
         </p>
         <p>
-          <strong>[LEGAL ENTITY NAME]</strong>
+          <strong>Revokslab</strong>
           <br />
-          [Business address]
+          Kigali, Rwanda
           <br />
-          <a href="mailto:[contact email]">[contact email]</a>
+          <a href="mailto:hi@revoks.dev">hi@revoks.dev</a>
         </p>
       </section>
 
