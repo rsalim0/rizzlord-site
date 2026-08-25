@@ -216,6 +216,49 @@ button {
   color: rgba(245, 241, 255, 0.55);
 }
 
+.support-card {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 1px solid rgba(245, 241, 255, 0.14);
+  border-radius: 1.125rem;
+  background: rgba(245, 241, 255, 0.05);
+}
+
+.support-card-label {
+  margin: 0;
+  font-size: 0.9rem;
+  color: rgba(245, 241, 255, 0.55);
+}
+
+.support-card-email {
+  display: inline-block;
+  margin: 0.25rem 0 0.75rem 0;
+  font-size: clamp(1.25rem, 4.4vw, 1.5rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--accent-start);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 178, 223, 0.35);
+  word-break: break-all;
+  transition: border-color 150ms ease;
+}
+
+.support-card-email:hover {
+  border-bottom-color: var(--accent-start);
+}
+
+.support-card-note {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: rgba(245, 241, 255, 0.82);
+}
+
+.support-card-note strong {
+  color: rgba(245, 241, 255, 0.96);
+  font-weight: 600;
+}
+
 .legal-section {
   margin-top: 2.25rem;
 }
